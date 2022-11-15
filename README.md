@@ -36,8 +36,9 @@ In the banking sector they need to provide 24*7 service to customers.
 🙋‍♀️ Hence, AI chatbots for banking and finance operations let banks attract customer attention, optimize service quality, and expand the brand mark in the market.
 
 .
+<img width="532" alt="1" src="https://user-images.githubusercontent.com/117930236/201897764-4bda43db-d4c5-40a5-accc-e9944de1bd87.png">
 
-image
+
 🎉INTRODUCTION :
 
 In this project, we will be building a chatbot using Watson's assistant. This chat should have the following capabilities:
@@ -64,11 +65,13 @@ After completing this project, you will learn how to
 🎉SERVICES USED :
 
 IBM Watson Assistant
-image
+image![2](https://user-images.githubusercontent.com/117930236/201897886-c6ae01ed-e412-4069-a2ba-72e3269d9972.png)
+
 
 🎉TECHNICAL ARCHITECTURE :
 
-image
+imAGE![3](https://user-images.githubusercontent.com/117930236/201897978-5998e802-65ee-4fb7-96c0-cfe475127551.png)
+
 
 🎉PROJECT WORKFLOW :
 
@@ -115,12 +118,15 @@ image
       * [Project Development - Delivery Of Sprint-4] - ✔️
 🎉FINAL OUTPUT :📲
 
-image
+<img width="941" alt="4" src="https://user-images.githubusercontent.com/117930236/201898041-fd2e264b-3f67-40cf-95cc-6c6c7934b951.png">
 
-image
+<img width="946" alt="5" src="https://user-images.githubusercontent.com/117930236/201898060-2933c874-cbf1-424a-807d-d98510925e54.png">
 
-image
 
-image
+<img width="938" alt="6" src="https://user-images.githubusercontent.com/117930236/201898106-ca231bbd-2c52-4ca4-83fb-da93230fa2ae.png">
+
+<img width="262" alt="7" src="https://user-images.githubusercontent.com/117930236/201898125-c4f2ede9-7775-4d4c-9ec4-d21690e52030.png">
+
+
 
 
